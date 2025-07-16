@@ -2,8 +2,6 @@
 
 An interactive Tableau dashboard to explore the **Gross District Domestic Product (GDDP)** trends across districts in Tamil Nadu from 2011 to 2020, and **sectorwise** for 2023.
   
-## Dashboard Preview
-[![Tamil Nadu GDDP Dashboard](https://public.tableau.com/static/images/QK/QKR4C8XRQ/1.png)](https://public.tableau.com/shared/QKR4C8XRQ)
 
 ## Visualization
 - Top 5 Districts GDDP wise for 2011 to 2020 and 2021 to 2023
